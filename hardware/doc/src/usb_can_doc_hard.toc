@@ -1,0 +1,2 @@
+\select@language {french}
+\contentsline {section}{\numberline {0.1}Synoptique de la carte \IeC {\'e}lectronique}{2}
